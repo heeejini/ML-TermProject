@@ -1,5 +1,7 @@
-# ML-TermProject 
+# Machine Learning TermProject 
 ### Music Recommendation System
+
+
 
 
 #### Dataset : Million Song Dataset + Spotify + Last.fm
@@ -14,6 +16,7 @@ https://www.kaggle.com/datasets/undefinenull/million-song-dataset-spotify-lastfm
 사용 모델 : Kmeans , LGBM
 
 ## Member
+###Team 11
 |이름|학번|
 |------|---|
 |박민서|202035520|
